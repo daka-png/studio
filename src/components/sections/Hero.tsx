@@ -51,7 +51,7 @@ export function Hero() {
 
         <div className="flex items-center gap-6">
           <a 
-            href="https://github.com/your-username" 
+            href="#" 
             target="_blank" 
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-primary transition-colors"
@@ -60,7 +60,7 @@ export function Hero() {
             <Github className="w-6 h-6" />
           </a>
           <a 
-            href="https://linkedin.com/in/your-profile" 
+            href="#" 
             target="_blank" 
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-primary transition-colors"
@@ -69,7 +69,7 @@ export function Hero() {
             <Linkedin className="w-6 h-6" />
           </a>
           <a 
-            href="mailto:contact@dakagift.com" 
+            href="mailto:#" 
             className="text-muted-foreground hover:text-primary transition-colors"
             title="Send Email"
           >
