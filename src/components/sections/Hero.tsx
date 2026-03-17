@@ -60,7 +60,7 @@ export function Hero() {
             <Github className="w-6 h-6" />
           </a>
           <a 
-            href="#" 
+            href="https://www.linkedin.com/in/eng-gift-daka-087338254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" 
             target="_blank" 
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-primary transition-colors"
