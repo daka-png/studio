@@ -4,8 +4,8 @@ import './globals.css';
 import { Toaster } from "@/components/ui/toaster";
 
 export const metadata: Metadata = {
-  title: 'DevFolio Pro | Professional Developer Portfolio',
-  description: 'A sophisticated and modern developer portfolio showcase.',
+  title: 'DAKA GIFT | Professional Showcase',
+  description: 'A sophisticated and modern presentation of DAKA GIFT.',
 };
 
 export default function RootLayout({

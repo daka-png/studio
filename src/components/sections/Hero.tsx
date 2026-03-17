@@ -20,21 +20,21 @@ export function Hero() {
           <div className="relative w-32 h-32 md:w-44 md:h-44 rounded-full border-2 border-primary/20 p-1">
             <Image
               src={profilePic?.imageUrl || ""}
-              alt="Developer Profile"
+              alt="DAKA GIFT Identity"
               width={176}
               height={176}
               className="rounded-full object-cover"
-              data-ai-hint="professional portrait"
+              data-ai-hint="professional identity"
               priority
             />
           </div>
         </div>
 
         <h1 className="font-headline text-4xl md:text-6xl font-extrabold mb-4 tracking-tight">
-          Hello, I&apos;m <span className="gradient-text">Alex Rivera</span>
+          Welcome to <span className="gradient-text">DAKA GIFT</span>
         </h1>
         <p className="font-headline text-xl md:text-2xl text-muted-foreground mb-8 max-w-2xl font-medium">
-          Senior Full Stack Engineer specializing in building scalable distributed systems and high-performance web applications.
+          Specializing in premium solutions, innovative engineering, and high-performance digital experiences.
         </p>
         
         <div className="flex flex-wrap items-center justify-center gap-4 mb-12">
@@ -43,7 +43,7 @@ export function Hero() {
           </Button>
           <Button variant="outline" className="rounded-full px-8 h-12 text-base font-semibold group" asChild>
             <a href="#projects">
-              View Projects
+              View Work
               <ArrowDown className="ml-2 w-4 h-4 group-hover:translate-y-1 transition-transform" />
             </a>
           </Button>

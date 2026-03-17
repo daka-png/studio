@@ -39,7 +39,7 @@ export function Navbar() {
             D
           </div>
           <span className="font-headline font-bold text-xl tracking-tight hidden sm:block">
-            DevFolio<span className="text-primary">Pro</span>
+            DAKA<span className="text-primary"> GIFT</span>
           </span>
         </Link>
 
