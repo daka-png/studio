@@ -1,4 +1,3 @@
-
 "use client";
 
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
@@ -6,34 +5,34 @@ import { GraduationCap, Award, Calendar } from "lucide-react";
 
 const education = [
   {
-    school: "Stanford University",
-    degree: "M.S. in Computer Science",
-    period: "2018 - 2020",
-    description: "Focus on Distributed Systems and Artificial Intelligence. Graduated with honors.",
+    school: "DMI-ST EUGENE  University,Lusaka",
+    degree: "Bachelor of Engineering  in Computer Science",
+    period: "2020 - 2025",
+    description: "Focus on Data Science and Artificial Intelligence. Graduated with merit.",
   },
   {
-    school: "University of California, Berkeley",
-    degree: "B.S. in Electrical Engineering & Computer Science",
+    school: "Taung-up High School, Mufulira",
+    degree: "HIGH SCHOOL CERTIFICATE",
     period: "2014 - 2018",
-    description: "Coursework in Data Structures, Algorithms, OS, and Database Systems.",
+    description: "CLEARED WITH DISTINSTIONS AND MERIT",
   },
 ];
 
 const certifications = [
   {
-    name: "AWS Certified Solutions Architect - Professional",
-    issuer: "Amazon Web Services",
-    year: "2023",
+    name: "Information Security - Professional",
+    issuer: "Saylor ACADEMY ,USA",
+    year: "2024",
   },
   {
-    name: "Google Cloud Professional Cloud Architect",
-    issuer: "Google",
-    year: "2022",
+    name: "DATA ANALYTICS AND VISUALISATION",
+    issuer: "SHUMBA TRAING CENTER",
+    year: "2024",
   },
   {
-    name: "Certified Kubernetes Administrator (CKA)",
-    issuer: "Cloud Native Computing Foundation",
-    year: "2021",
+    name: "Certified MICROSOFT AI FUNDAMENTALS",
+    issuer: "MICROSOFT",
+    year: "2024",
   },
 ];
 

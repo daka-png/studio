@@ -10,11 +10,11 @@ import { PlaceHolderImages } from "@/lib/placeholder-images";
 const projects = [
   {
     id: "project-1",
-    title: "CloudVision Dashboard",
-    description: "A comprehensive cloud infrastructure monitoring tool featuring real-time data visualization, predictive scaling alerts, and multi-cloud integration support.",
-    tech: ["Next.js", "Recharts", "AWS", "Node.js"],
+    title: "DICELABS INNOVATION ",
+    description: ".",
+    tech: ["Next.js", "PYTHON", "", "Node.js"],
     live: "#",
-    github: "#",
+    github: "https://dice-labs.vercel.app/",
   },
   {
     id: "project-2",
