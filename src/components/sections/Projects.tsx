@@ -26,8 +26,8 @@ const projects = [
   },
   {
     id: "project-3",
-    title: "Strive Fitness Mobile",
-    description: "Cross-platform mobile application for personalized workout tracking. Includes social challenges, biometric data sync, and AI-driven routine suggestions.",
+    title: "TRAFFIC TAXI APP",
+    description: "Cross-platform mobile application for personalized VEHICLE tracking. Includesbest routes,, biometric data sync, and AI-driven route suggestions.",
     tech: ["React Native", "Firebase", "Python", "FastAPI"],
     live: "#",
     github: "#",

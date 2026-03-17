@@ -14,7 +14,7 @@ export function Footer() {
           © {new Date().getFullYear()} DAKA GIFT. All rights reserved.
         </p>
         <div className="flex items-center justify-center gap-6 text-xs font-code text-muted-foreground uppercase tracking-widest">
-          <span>San Francisco</span>
+          <span>Lusaka, Zambia</span>
           <span className="w-1 h-1 rounded-full bg-primary" />
           <span>Built with Precision</span>
           <span className="w-1 h-1 rounded-full bg-primary" />

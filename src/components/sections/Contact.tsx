@@ -47,8 +47,8 @@ export function Contact() {
                 </div>
                 <div>
                   <p className="text-sm text-muted-foreground uppercase tracking-wider font-bold mb-1">Email</p>
-                  <a href="mailto:#" className="text-lg font-medium hover:text-primary transition-colors">
-                    your.email@example.com
+                  <a href="mailto:giftdaka543@gmail.com" className="text-lg font-medium hover:text-primary transition-colors">
+                    giftdaka543@gmail.com
                   </a>
                 </div>
               </div>
@@ -58,7 +58,7 @@ export function Contact() {
                 </div>
                 <div>
                   <p className="text-sm text-muted-foreground uppercase tracking-wider font-bold mb-1">Location</p>
-                  <p className="text-lg font-medium">San Francisco, CA</p>
+                  <p className="text-lg font-medium">Lusaka, Zambia</p>
                 </div>
               </div>
               <div className="flex items-start gap-4">
@@ -67,7 +67,7 @@ export function Contact() {
                 </div>
                 <div>
                   <p className="text-sm text-muted-foreground uppercase tracking-wider font-bold mb-1">Phone</p>
-                  <p className="text-lg font-medium">+1 (555) 123-4567</p>
+                  <p className="text-lg font-medium">+260 971 645 445</p>
                 </div>
               </div>
             </div>
