@@ -11,15 +11,15 @@ const projects = [
   {
     id: "project-1",
     title: "DICELABS INNOVATION ",
-    description: ".",
+    description: "High-performance e-commerce engine designed for scale digital tickets . Features include headless CMS integration, advanced filtering, and instant edge-search capabilities.",
     tech: ["Next.js", "PYTHON", "", "Node.js"],
     live: "#",
     github: "https://dice-labs.vercel.app/",
   },
   {
     id: "project-2",
-    title: "Nexus Commerce",
-    description: "High-performance e-commerce engine designed for scale. Features include headless CMS integration, advanced filtering, and instant edge-search capabilities.",
+    title: "ZAMIA CRIME CHECK",
+    description: " A high level project nominated  under the ZICTA INNOVATION PROGRAME. enages citizens on the whereabouts of their relatives if arrested at any Zambian Police station/post",
     tech: ["TypeScript", "GraphQL", "PostgreSQL", "Tailwind"],
     live: "#",
     github: "#",

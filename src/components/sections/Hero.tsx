@@ -34,7 +34,7 @@ export function Hero() {
           Welcome to <span className="gradient-text">DAKA GIFT</span>
         </h1>
         <p className="font-headline text-xl md:text-2xl text-muted-foreground mb-8 max-w-2xl font-medium">
-          Specializing in premium solutions, innovative engineering, and high-performance digital experiences.
+          Specializing in Developing  premium solutions, innovative engineering, and high-performance digital experiences.
         </p>
         
         <div className="flex flex-wrap items-center justify-center gap-4 mb-12">
