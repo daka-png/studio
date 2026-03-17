@@ -47,7 +47,9 @@ export function Contact() {
                 </div>
                 <div>
                   <p className="text-sm text-muted-foreground uppercase tracking-wider font-bold mb-1">Email</p>
-                  <p className="text-lg font-medium">alex.rivera@devfolio.pro</p>
+                  <a href="mailto:contact@dakagift.com" className="text-lg font-medium hover:text-primary transition-colors">
+                    contact@dakagift.com
+                  </a>
                 </div>
               </div>
               <div className="flex items-start gap-4">
