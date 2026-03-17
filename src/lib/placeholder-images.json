@@ -23,6 +23,12 @@
       "description": "Mobile fitness tracker app",
       "imageUrl": "https://picsum.photos/seed/p3/600/400",
       "imageHint": "fitness mobile"
+    },
+    {
+      "id": "wildlife-bg",
+      "description": "Stunning wildlife landscape for background",
+      "imageUrl": "https://picsum.photos/seed/wildlife-safari/1920/1080",
+      "imageHint": "wildlife nature"
     }
   ]
 }
