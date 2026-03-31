@@ -6,7 +6,7 @@ import Image from "next/image";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 
 export const metadata: Metadata = {
-  title: 'DAKA GIFT | Professional Showcase',
+  title: 'Eng.DAKA GIFT | Professional Showcase',
   description: 'A sophisticated and modern presentation of DAKA GIFT.',
 };
 
